@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">C13</string>
+    <string name="sesac_contact">
+        SeSAC - 웹페이지 : https://ssac.seoul.kr/, 전화번호 : 02-3667-7304, 이메일 : ssac@sba.seoul.kr
+    </string>
+    <string name="sesac_info">
+        서울특별시와 서울경제진흥원(SBA)은 SW혁신 인재의 양성과 적소공급을 위해 청년취업사관학교를 조성하였습니다. 새싹(Seoul Software Academy, SeSAC)은 캠퍼스의 교육브랜드로 서울시에서 SW인재 양성을 위해 ‘싹’을 틔우고 성장시켜, 개발자를 꿈꾸는 청년들이 ‘SW개발자로 데뷔’ 할 수 있도록 돕는 교육 프로그램을 의미합니다.
+    </string>
+</resources>
