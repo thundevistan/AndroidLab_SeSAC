@@ -151,8 +151,6 @@ J
 app/c20/proguard-rules.pro,7\a\7acb8026016e7a83225710347b81861c7ba6382e
 n
 >app/c20/src/main/java/com/kotdev99/android/c20/MainActivity.kt,2\b\2b590a89a31b5fa0993846b6c84c0e5c6e3a401a
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 w
 G.idea/sonarlint/issuestore/b/c/bc487970920f0c9b1e01fd88643d6cf53f1d916b,f\c\fcfc23c98f3d9a1a004613deb8d948cea373617a
 w
@@ -2303,3 +2301,17 @@ J
 app/c28/proguard-rules.pro,d\e\de8e715e5ce533ab1595125e1dcaeacdcb038d9c
 n
 >app/c28/src/main/java/com/kotdev99/android/c28/MainActivity.kt,4\a\4a0513d83dff9b8f50886714e7c3a3a8c0f0560d
+B
+app/c29/.gitignore,7\d\7dff21d0c8dab9e542194464264556f761444c19
+T
+$app/c29/src/main/AndroidManifest.xml,b\c\bc76392697592a10ac47929522a9357a4f8c058a
+H
+app/c29/build.gradle.kts,1\2\123c773943044b81f44237a399c4389306885bc3
+€
+Papp/c29/src/androidTest/java/com/kotdev99/android/c29/ExampleInstrumentedTest.kt,0\b\0b07dcf7f9ebe64ee708e1d403b29b8b85cc7ab6
+q
+Aapp/c29/src/test/java/com/kotdev99/android/c29/ExampleUnitTest.kt,f\7\f77950a48e08562e8a36d798530b4c6f0baca36b
+n
+>app/c29/src/main/java/com/kotdev99/android/c29/MainActivity.kt,9\a\9ab8c7cc9f5bdcd884ed92bdd1f6df102e87b3fa
+J
+app/c29/proguard-rules.pro,a\a\aa0f82745d336117aafa13ac968820629880b55a
