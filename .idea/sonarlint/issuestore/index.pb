@@ -17,8 +17,6 @@ J
 app/c12/proguard-rules.pro,f\0\f0ed3cfb47fd43ab4e38a4568a9122c05f26c4ca
 n
 >app/c12/src/main/java/com/kotdev99/android/c12/MainActivity.kt,d\6\d6d45efc24d20e3f6c1f65a07b4eb02e78504026
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 B
 app/c13/.gitignore,d\f\df95ba86731a6d53114993e3f95991d0bceac99a
 T
@@ -2359,16 +2357,10 @@ k
 ;app/c92/src/main/java/com/kotdev99/android/c92/MyAdapter.kt,2\4\2496b17f8525bdfa99d58d7289565eeeb8872764
 n
 >app/c33/src/main/java/com/kotdev99/android/c33/MainActivity.kt,5\1\51f772d1b4540b21774c7cf16218c7fa53045539
-T
-$app/c92/src/main/AndroidManifest.xml,8\5\8579d7509d20a1bca4ef73c219a9c24d6d43e991
 q
 Aapp/c34/src/test/java/com/kotdev99/android/c34/ExampleUnitTest.kt,a\1\a1e22c484f582d19df7cf99d70599c4550bfb63b
 q
 Aapp/src/main/java/com/kotdev99/android/androidlab/MainActivity.kt,5\1\518e87b9e0715a1a9c87bc1a3bb0cfb8579736ee
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 H
 app/c92/build.gradle.kts,a\0\a08375c6c3bde87db70f12f08146ca61f33f6110
 
@@ -2539,3 +2531,19 @@ J
 Papp/c43/src/androidTest/java/com/kotdev99/android/c43/ExampleInstrumentedTest.kt,3\0\305c4bb1bfc02d0dbe8063966411b6c756302091
 q
 Aapp/c43/src/test/java/com/kotdev99/android/c43/ExampleUnitTest.kt,c\0\c0ac6fb5b0618a0c3b502f2212f86fc89358df13
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+n
+>app/c90/src/main/java/com/kotdev99/android/c90/MainActivity.kt,c\e\ce2a91779c19cf4ff1a5567680c9cb22a4b0b202
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+T
+$app/c92/src/main/AndroidManifest.xml,8\5\8579d7509d20a1bca4ef73c219a9c24d6d43e991
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
