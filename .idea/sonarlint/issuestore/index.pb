@@ -514,8 +514,6 @@ Q.idea/sonarlint/securityhotspotstore/5/7/576101d71d84ff9f593821bb32e884099cbfaa
 
 Q.idea/sonarlint/securityhotspotstore/5/8/580e0a9630db778745948a5249b8c78eef2a41d5,b\f\bfc5c35b38c6cd8e1e4866b9f79682443165cb7e
 
-Q.idea/sonarlint/securityhotspotstore/c/a/ca206dc5902b3d7f45c7a2efdd5ca012e9a3b02c,3\b\3b6565185bbd61b0d46e1b7a4051848af76e4645
-
 Q.idea/sonarlint/securityhotspotstore/c/d/cdc48be648cb0e2ad7d94d48168a7cfbf3a3bcb2,d\a\da18cf603d999bcce6380ebc8dd47fd79e04c310
 
 Q.idea/sonarlint/securityhotspotstore/c/f/cfeebe7af144095fc43b14e55665627d826262de,e\7\e7f5668545cac0ae79843ad0c19ab527cfab307f
@@ -583,8 +581,6 @@ w
 G.idea/sonarlint/issuestore/b/5/b5e9137bc672258b73b7f6015c56379696ac88c3,7\6\76d67daa60d98db201c9096846052156370403d2
 w
 G.idea/sonarlint/issuestore/b/f/bf88fd374230e2c28479514286e1b4567a806a81,1\2\12871b48e5eca5da88bf7db9b1c38bf9cdb75a28
-w
-G.idea/sonarlint/issuestore/b/d/bd6f38cfdf97599261a57514263678657cd5517a,2\5\252b404ccaada0e70a3c18d34ae2bb535deb2bbd
 w
 G.idea/sonarlint/issuestore/b/e/be17b9267fa772b5b1453ef6377e2043d883a368,1\2\12fd8c101ade3a00a5a4ae3f8657861f1f6d8c02
 w
@@ -737,8 +733,6 @@ w
 G.idea/sonarlint/issuestore/c/e/ce5e246c8da7eb17923d69e15df9884a534274df,1\a\1a69b050cfd3246165ccd6da18a1243cb9383d59
 w
 G.idea/sonarlint/issuestore/c/e/ced0779bf00563daeb493158e8e79543e8f4551f,c\2\c2fd02904cd61e898af25eae555cdbe6d6a63684
-w
-G.idea/sonarlint/issuestore/c/a/ca206dc5902b3d7f45c7a2efdd5ca012e9a3b02c,c\7\c7f669750170706a0c7ab0f2a21221d54a2fb435
 w
 G.idea/sonarlint/issuestore/c/d/cdc48be648cb0e2ad7d94d48168a7cfbf3a3bcb2,0\d\0d26341e3d9e957a5715da8e79cea74aeab2f946
 w
@@ -937,8 +931,6 @@ Q.idea/sonarlint/securityhotspotstore/9/a/9a784fd4336a8483c91094f110e67322e86741
 Q.idea/sonarlint/securityhotspotstore/9/3/93ed2bf5b04a926299d0a78b02e60c403a96eac4,b\d\bd6e023845a7c35b90894f1399ea5f83d064de4c
 
 Q.idea/sonarlint/securityhotspotstore/9/6/962f6e0846ba43c4b21ed01bb850c40299b9f804,b\8\b8e130246bd721aace879a4e7a15737954b892f9
-
-Q.idea/sonarlint/securityhotspotstore/b/d/bd6f38cfdf97599261a57514263678657cd5517a,3\6\36dae3479b68341a69052100b006d996f92fca39
 
 Q.idea/sonarlint/securityhotspotstore/b/f/bf88fd374230e2c28479514286e1b4567a806a81,7\c\7c3f565745074790824d4af6cd6df18377273593
 
@@ -2737,3 +2729,19 @@ n
 >app/c57/src/main/java/com/kotdev99/android/c57/MainActivity.kt,0\d\0d05283c07488f89dfd3329caa1ed8c9ca87b5be
 q
 Aapp/c57/src/main/java/com/kotdev99/android/c57/SettingFragment.kt,e\8\e86dcfb1225f9f304f15494d993f4141ebcee8a3
+B
+app/c59/.gitignore,2\9\298e32ea0d16f70ae8cfba3b89a89ed7d57ead2b
+T
+$app/c59/src/main/AndroidManifest.xml,0\6\06abea6c1f33aeaca0c1d292495507853d161814
+H
+app/c59/build.gradle.kts,c\8\c8ca0d27934a5e397861ff80c4335267c7f95807
+j
+:app/c59/src/main/java/com/kotdev99/android/c59/DBHelper.kt,9\f\9f2cba304ad1201769f38bed7c8a10df7dffe349
+€
+Papp/c59/src/androidTest/java/com/kotdev99/android/c59/ExampleInstrumentedTest.kt,3\2\3288e3b03ed32cc71edc50671c9e8d3e3b9d770c
+q
+Aapp/c59/src/test/java/com/kotdev99/android/c59/ExampleUnitTest.kt,8\7\875f9d0d29652ae67c685e0370b009ec398d8e14
+J
+app/c59/proguard-rules.pro,d\d\dd9828190ebb01ab381a874cc9dc8c578e7e1e2f
+n
+>app/c59/src/main/java/com/kotdev99/android/c59/MainActivity.kt,6\8\6816c2e4599636018e9c39813bbdf7d6e4fc706a
