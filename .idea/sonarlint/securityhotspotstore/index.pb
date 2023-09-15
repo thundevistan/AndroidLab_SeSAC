@@ -2871,3 +2871,17 @@ $app/c72/src/main/AndroidManifest.xml,b\1\b18d543fb357ce18dbe0e13ff9efce47cefb2
 Papp/c72/src/androidTest/java/com/kotdev99/android/c72/ExampleInstrumentedTest.kt,2\c\2c576c69ec8a4cf540f1d15667445c07dffbd6c2
 n
 >app/c72/src/main/java/com/kotdev99/android/c72/MainActivity.kt,2\a\2a433602b50d79c491a47e13701d5001cf36e75d
+q
+Aapp/c85/src/test/java/com/kotdev99/android/c85/ExampleUnitTest.kt,2\c\2c1bab553c0d6fee4f65367e8bb62a9d0278d195
+n
+>app/c85/src/main/java/com/kotdev99/android/c85/MainActivity.kt,0\7\07fd2f80421b98fb890b24eccd7d07b3aec1c19b
+B
+app/c85/.gitignore,f\e\feb10704b869d3a07d8c286ff2aab831db136aee
+J
+app/c85/proguard-rules.pro,5\e\5ee9d201dbe67966ebe6b6cf035573f4f1820201
+T
+$app/c85/src/main/AndroidManifest.xml,0\a\0a58f7e021091c23408dd457804fea8f32ce111a
+H
+app/c85/build.gradle.kts,2\b\2b62a773b6f116b7cea8c1f2970a1ed7ee9dbdc9
+€
+Papp/c85/src/androidTest/java/com/kotdev99/android/c85/ExampleInstrumentedTest.kt,e\9\e97dd145b2af04e599effce14efe651e9049d243
