@@ -2941,3 +2941,17 @@ m
 =app/c93/src/main/java/com/kotdev99/android/c93/TwoFragment.kt,9\d\9db76134994f47eb6380e3dad17c9fd2976da3f2
 n
 >app/c93/src/main/java/com/kotdev99/android/c93/MainActivity.kt,9\1\91df931c245053d8dd18f10caaf4bdeddef4ecc4
+B
+app/c94/.gitignore,a\5\a5192259693c8ade970d6c99ef4b55feb65b54e0
+T
+$app/c94/src/main/AndroidManifest.xml,e\4\e466df8f3715e207181568cc6a47c0a16183af5a
+H
+app/c94/build.gradle.kts,e\2\e20a357d605e81a7b4865e97e25a599ab01c7920
+€
+Papp/c94/src/androidTest/java/com/kotdev99/android/c94/ExampleInstrumentedTest.kt,b\d\bd30ad428fc92adb63522d6ce7a81a1fe9d23c11
+q
+Aapp/c94/src/test/java/com/kotdev99/android/c94/ExampleUnitTest.kt,0\6\06a5ca896ec8ba6fc17c17596ba6679b845fc7c8
+J
+app/c94/proguard-rules.pro,a\0\a08f55cb79e564c5c9d9cee433a344453f439cf3
+n
+>app/c94/src/main/java/com/kotdev99/android/c94/MainActivity.kt,b\3\b30f258725ea42a4264a4b40c3fadc5c20e25c97

@@ -2941,3 +2941,17 @@ k
 ;app/c93/src/main/java/com/kotdev99/android/c93/MyAdapter.kt,7\3\73649570ad1ba6890f28e02685437b25f00f2abb
 B
 app/c93/.gitignore,9\f\9f030028652702b2b84afc65d9b7132eb0ab6038
+q
+Aapp/c94/src/test/java/com/kotdev99/android/c94/ExampleUnitTest.kt,0\6\06a5ca896ec8ba6fc17c17596ba6679b845fc7c8
+n
+>app/c94/src/main/java/com/kotdev99/android/c94/MainActivity.kt,b\3\b30f258725ea42a4264a4b40c3fadc5c20e25c97
+H
+app/c94/build.gradle.kts,e\2\e20a357d605e81a7b4865e97e25a599ab01c7920
+€
+Papp/c94/src/androidTest/java/com/kotdev99/android/c94/ExampleInstrumentedTest.kt,b\d\bd30ad428fc92adb63522d6ce7a81a1fe9d23c11
+T
+$app/c94/src/main/AndroidManifest.xml,e\4\e466df8f3715e207181568cc6a47c0a16183af5a
+J
+app/c94/proguard-rules.pro,a\0\a08f55cb79e564c5c9d9cee433a344453f439cf3
+B
+app/c94/.gitignore,a\5\a5192259693c8ade970d6c99ef4b55feb65b54e0
