@@ -2955,3 +2955,17 @@ J
 app/c94/proguard-rules.pro,a\0\a08f55cb79e564c5c9d9cee433a344453f439cf3
 B
 app/c94/.gitignore,a\5\a5192259693c8ade970d6c99ef4b55feb65b54e0
+n
+>app/c96/src/main/java/com/kotdev99/android/c96/MainActivity.kt,0\d\0d29348c873ff244c685c082abfbdb446a809a92
+H
+app/c96/build.gradle.kts,3\d\3d726a74af023d2a24891ea1a6cb930a4a3b8fcc
+€
+Papp/c96/src/androidTest/java/com/kotdev99/android/c96/ExampleInstrumentedTest.kt,7\4\74635c9396fc0c38a7703ef9fbab829d9f44aa72
+T
+$app/c96/src/main/AndroidManifest.xml,0\c\0cc3704438a2f934ce75a543f5034fd42a7ee13f
+J
+app/c96/proguard-rules.pro,6\4\646985aa784a3c5e245a3955b46499521cc649bd
+B
+app/c96/.gitignore,8\d\8db88355674590d201b3044606ca97c8c2bc1532
+q
+Aapp/c96/src/test/java/com/kotdev99/android/c96/ExampleUnitTest.kt,e\5\e5485213bffcd9a624d967be7f16a58b0b363dd9
